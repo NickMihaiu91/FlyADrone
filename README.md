@@ -57,8 +57,8 @@ Built it to test my idea and get emails in order to talk to people that might be
  - Tawk.to - https://www.tawk.to/
  - Social share kit - https://github.com/darklow/social-share-kit
  
- 
- **Analytics:**
+
+**Analytics:**
  - Mixpanel
  - Google Analytics
  - Hotjar
